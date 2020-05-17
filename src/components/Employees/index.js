@@ -2,7 +2,7 @@ import React from "react";
 import "./style.css"
 import Table from "react-bootstrap/table"
 import Moment from "moment";
-// import { render } from "@testing-library/react";
+
 
 
 
